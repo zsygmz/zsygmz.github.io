@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>花开富贵</title>
+  <title>摸鱼熊的日常！</title>
   
-  <subtitle>温乃厚知，混则浪世！</subtitle>
+  <subtitle>摸鱼熊</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>宋温温</name>
+<!--     <name>宋温温</name> -->
     
   </author>
   
